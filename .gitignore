@@ -1,0 +1,12 @@
+# VSCode settings
+.vscode/
+
+
+# Other files to ignore
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
